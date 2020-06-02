@@ -1,0 +1,93 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.timeline a {
+	text-decoration: none;
+    font-size: 13px; 
+	list-style: none;
+	border-radius: 100%;
+	border: 5px solid #999;
+	width: 75px;
+	height: 75px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #FFF;
+	position: relative;
+	z-index: 20;
+	float: left;
+	color: #000;
+	font-weight: 700;
+}
+.timeline a:hover{
+    background-color: #F3B900 !important; 
+}
+.line{
+  position: absolute;
+  border-bottom: 2px solid #CCC;
+  margin-top: 10px;
+}
+.line-active{
+  background-color: #F3B900 !important; 
+  border-color: green !important;
+  /*color: #FFF !important;*/
+}
+.line-active + .line{
+  border-bottom: 2px solid #F3B900 !important;
+}
+.line-active + .line + .title{
+  font-weight: bold;
+}
+@media (max-width: 992px) {
+	.timeline a{
+    text-decoration: none;
+    font-size: 13px; 
+    list-style: none;
+    border-radius: 0%;
+    border: 3px solid #999;
+    border-bottom: none;
+    width: 80px;
+    height: 39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+    position: relative;
+    z-index: 20;
+    float: left;
+    color: #000;
+    font-weight: 700;
+    }
+}
+
+@media (max-width: 768px) {
+.timeline a{
+  text-decoration: none;
+  font-size: 13px; 
+  list-style: none;
+  border-radius: 0%;
+  border: 3px solid #999;
+  width: 80px;
+  height: 39px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFF;
+  position: relative;
+  z-index: 20;
+  float: left;
+  color: #000;
+  font-weight: 700;
+}
+.line{display: none;}
+
+}

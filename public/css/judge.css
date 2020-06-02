@@ -1,0 +1,30 @@
+ .bg-gradient-success {
+    background: #49bd28 linear-gradient(180deg,#1b874b,#024a02) repeat-x!important;
+    color: #fff !important;
+  }
+
+
+.bg-gradient-danger {
+    background: #ca1c1d linear-gradient(180deg,#8e1e1fb3,#c11c1e) repeat-x!important;
+    color: #fff !important;
+  }
+
+.bg-gradient-warning{
+  background: #e6b017 linear-gradient(180deg,#e4a923b3,#bba60feb) repeat-x!important;
+  color: #fff !important;
+}
+
+.bg-gradient-primary{
+  background: #080c92 linear-gradient(180deg,#260fa5b3,#070650) repeat-x!important;
+  color: #fff !important;
+}
+
+.bg-gradient-purple{
+  background: #75045d linear-gradient(180deg,#a50f85b3,#21031c) repeat-x!important;
+  color: #fff !important;
+}
+.text-white{color: #FFF}
+.text-bold { font-weight: bolder; }
+.fs-20{font-size: 20px !important;}
+.fs-30{font-size: 30px !important;}
+.fs-35{font-size: 35px !important;}

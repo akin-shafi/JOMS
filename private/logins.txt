@@ -1,0 +1,551 @@
+2020-01-18 14:04:09 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:06:16 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:07:53 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:08:25 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:39 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:40 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:40 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:49 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:50 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:50 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:51 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:10:51 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:11:08 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:11:31 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:13:06 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:13:37 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:15:51 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:18:32 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:21:25 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:22:32 | Login: Bello Rahmat Logged in.
+2020-01-18 14:22:48 | Login: Khalid Adegoke Logged in.
+2020-01-18 14:24:56 | Login: Bello Rahmat Logged in.
+2020-01-18 14:25:37 | Login: Bello Rahmat Logged in.
+2020-01-18 14:26:22 | Login: Bello Rahmat Logged in.
+2020-01-18 15:06:51 | Login: Bello Rahmat Logged in.
+2020-01-18 15:09:11 | Login: Bello Rahmat Logged in.
+2020-01-18 15:12:42 | Login: Khalid Adegoke Logged in.
+2020-01-18 15:19:18 | Login: Khalid Adegoke Logged in.
+2020-01-18 15:36:17 | Login: Khalid Adegoke Logged in.
+2020-01-18 15:45:23 | Login: Bello Rahmat Logged in.
+2020-01-18 15:51:15 | Login: Bello Rahmat Logged in.
+2020-01-18 15:52:39 | Login: Khalid Adegoke Logged in.
+2020-01-18 15:53:49 | Login: Khalid Adegoke Logged in.
+2020-01-18 15:57:30 | Login: Bello Rahmat Logged in.
+2020-01-18 16:00:34 | Login: Khalid Adegoke Logged in.
+2020-01-18 16:01:52 | Login: Bello Rahmat Logged in.
+2020-01-18 16:02:27 | Login: Khalid Adegoke Logged in.
+2020-01-18 18:25:20 | Login: Khalid Adegoke Logged in.
+2020-01-18 22:48:07 | Login: Bello Rahmat Logged in.
+2020-01-19 00:47:26 | Login: Khalid Adegoke Logged in.
+2020-01-19 01:25:31 | Login: Khalid Adegoke Logged in.
+2020-01-19 12:12:41 | Login: Bello Rahmat Logged in.
+2020-01-19 16:39:14 | Login: Bello Rahmat Logged in.
+2020-01-19 23:58:25 | Login: Bello Rahmat Logged in.
+2020-01-19 23:58:48 | Login: Khalid Adegoke Logged in.
+2020-01-20 09:23:05 | Login: Bello Rahmat Logged in.
+2020-01-20 11:58:35 | Login: Bello Rahmat Logged in.
+2020-01-20 14:42:26 | Login: Bello Rahmat Logged in.
+2020-01-21 22:01:51 | Login: Khalid Adegoke Logged in.
+2020-01-21 22:32:18 | Login: Khalid Adegoke Logged in.
+2020-01-22 04:37:18 | Login: Khalid Adegoke Logged in.
+2020-01-23 02:46:17 | Login: Khalid Adegoke Logged in.
+2020-01-23 03:04:44 | Login: Khalid Adegoke Logged in.
+2020-01-23 20:46:13 | Login: Khalid Adegoke Logged in.
+2020-01-23 21:15:16 | Login: Khalid Adegoke Logged in.
+2020-01-24 02:51:45 | Login: Khalid Adegoke Logged in.
+2020-01-24 03:08:42 | Login: Khalid Adegoke Logged in.
+2020-01-24 03:28:10 | Login: Khalid Adegoke Logged in.
+2020-01-24 03:29:28 | Login: Khalid Adegoke Logged in.
+2020-01-24 03:36:13 | Login: Khalid Adegoke Logged in.
+2020-01-24 14:48:50 | Login: Khalid Adegoke Logged in.
+2020-01-24 14:51:19 | Login: Khalid Adegoke Logged in.
+2020-01-24 14:54:00 | Login: Khalid Adegoke Logged in.
+2020-01-24 14:56:46 | Login: Khalid Adegoke Logged in.
+2020-01-24 20:32:32 | Login: Khalid Adegoke Logged in.
+2020-01-25 12:56:36 | Technician Login: Ade Mola Logged in.
+2020-01-25 13:03:57 | Technician Login: Ade Mola Logged in.
+2020-01-25 13:54:41 | Technician Login: Ade Mola Logged in.
+2020-01-25 13:55:29 | Technician Login: Ade Mola Logged in.
+2020-01-25 14:25:13 | Technician Login: Ade Mola Logged in.
+2020-01-25 14:56:35 | Technician Login: Ade Mola Logged in.
+2020-01-25 15:06:01 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 15:17:07 | Technician Login: Ade Mola Logged in.
+2020-01-25 15:18:46 | Technician Login: Ade Mola Logged in.
+2020-01-25 15:26:56 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 15:34:26 | Login: Khalid Adegoke Logged in.
+2020-01-25 15:37:37 | Login: Khalid Adegoke Logged in.
+2020-01-25 15:38:46 | Technician Login: Ade Mola Logged in.
+2020-01-25 15:39:26 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 18:25:32 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 18:25:53 | Technician Login: Ade Mola Logged in.
+2020-01-25 18:26:17 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 18:27:51 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 19:22:00 | Technician Login: Ade Mola Logged in.
+2020-01-25 19:44:11 | Technician Login: Ade Mola Logged in.
+2020-01-25 20:03:08 | Technician Login: Oluwa Gafar Logged in.
+2020-01-25 20:53:46 | Technician Login: Ade Mola Logged in.
+2020-01-25 21:29:02 | Technician Login: Ade Mola Logged in.
+2020-01-25 21:31:34 | Technician Login: Ade Mola Logged in.
+2020-01-25 21:49:04 | Login: Khalid Adegoke Logged in.
+2020-01-25 22:26:44 | Login: Khalid Adegoke Logged in.
+2020-01-25 22:27:31 | Login: Khalid Adegoke Logged in.
+2020-01-25 22:28:26 | Login: Khalid Adegoke Logged in.
+2020-01-25 22:47:28 | Login: Khalid Adegoke Logged in.
+2020-01-25 22:48:17 | Login: Khalid Adegoke Logged in.
+2020-01-25 23:01:52 | Technician Login: Ade Mola Logged in.
+2020-01-25 23:45:51 | Login: Ade Logged in.
+2020-01-25 23:46:39 | Technician Logout: Ade Mola Logged out.
+2020-01-25 23:55:10 | Technician Login: Ade Mola Logged in.
+2020-01-26 08:31:50 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 08:34:34 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 08:35:04 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 08:35:37 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 08:38:14 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 08:49:04 | Login: Ade Logged in.
+2020-01-26 08:50:45 | Login: Ade Logged in.
+2020-01-26 08:51:13 | Login: Ade Logged in.
+2020-01-26 08:55:29 | Login: Ade Logged in.
+2020-01-26 08:57:37 | Login: Khalid Adegoke Logged in.
+2020-01-26 08:58:47 | Login: Ade Logged in.
+2020-01-26 09:13:11 | Login: Ade Logged in.
+2020-01-26 16:19:49 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:20:08 | Technician Logout: Ade Mola Logged out.
+2020-01-26 16:35:35 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:35:49 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:36:35 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:38:21 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:39:59 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 16:43:25 | Technician Login: Ade Mola Logged in.
+2020-01-26 16:50:21 | Login: Khalid Adegoke Logged in.
+2020-01-26 20:07:48 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:08:03 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:08:43 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:09:18 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:10:13 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:10:28 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:14:10 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:14:35 | Technician Logout: Ade Mola Logged out.
+2020-01-26 20:15:01 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:16:34 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:16:49 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:17:21 | Technician Logout: Ade Mola Logged out.
+2020-01-26 20:17:37 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:17:51 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:18:28 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 20:18:42 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 20:18:51 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 20:19:03 | Technician Logout: Ade Mola Logged out.
+2020-01-26 20:19:26 | Login: Ade Kunle Logged in.
+2020-01-26 20:19:44 | Technician Login: Ade Mola Logged in.
+2020-01-26 20:20:30 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 20:59:13 | Login: Administrator Admin Logged in.
+2020-01-26 20:59:37 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 21:03:07 | Technician Login: Technician Technical Logged in.
+2020-01-26 21:03:07 | Technician Login: Technician Technical Logged in.
+2020-01-26 21:13:40 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 21:13:59 | Technician Login: Technician Technical Logged in.
+2020-01-26 21:14:15 | Login: Administrator Admin Logged in.
+2020-01-26 21:39:59 | Login: Khalid Adegoke Logged in.
+2020-01-26 21:40:20 | Login: Ade Kunle Logged in.
+2020-01-26 21:48:47 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 22:06:48 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 22:10:43 | Customer Login: Customer Custom Logged in.
+2020-01-26 22:32:54 | Customer Login: Customer Custom Logged in.
+2020-01-26 22:33:44 | Customer Login: Customer Custom Logged in.
+2020-01-26 22:34:17 | Customer Login: Customer Custom Logged in.
+2020-01-26 22:34:28 | Customer Login: Kareem Balogun Logged in.
+2020-01-26 22:40:29 | Customer Login: Customer Custom Logged in.
+2020-01-27 09:26:45 | Login: Ade Kunle Logged in.
+2020-01-27 09:27:21 | Technician Login: Ade Mola Logged in.
+2020-01-27 10:36:21 | Technician Logout: Ade Mola Logged out.
+2020-01-27 10:43:18 | Customer Login: Customer Custom Logged in.
+2020-01-27 10:44:42 | Login: Khalid Adegoke Logged in.
+2020-01-27 10:45:45 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:18:20 | Login: Administrator Admin Logged in.
+2020-01-27 15:21:18 | Login: Administrator Admin Logged in.
+2020-01-27 15:21:42 | Login: Administrator Admin Logged in.
+2020-01-27 15:22:13 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:22:41 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:23:22 | Login: Administrator Admin Logged in.
+2020-01-27 15:23:31 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:23:51 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:25:03 | Customer Login: Customer Custom Logged in.
+2020-01-27 15:25:48 | Technician Login: Ade Mola Logged in.
+2020-01-27 15:29:56 | Customer Login: Kareem Balogun Logged in.
+2020-01-27 15:30:24 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:33:22 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:36:09 | Login: Administrator Admin Logged in.
+2020-01-27 15:36:46 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:38:11 | Login: Administrator Admin Logged in.
+2020-01-27 15:38:31 | Technician Login: Technician Technical Logged in.
+2020-01-27 15:41:01 | Login: Administrator Admin Logged in.
+2020-01-27 15:41:22 | Technician Login: Technician Technical Logged in.
+2020-01-27 16:00:51 | Technician Logout: Technician Technical Logged out.
+2020-01-27 16:01:05 | Login: Administrator Admin Logged in.
+2020-01-27 16:02:34 | Customer Login: Customer Custom Logged in.
+2020-01-27 16:09:18 | Customer Login: Kareem Balogun Logged in.
+2020-01-27 18:34:17 | Technician Login: Technician Technical Logged in.
+2020-01-27 18:41:47 | Technician Logout: Technician Technical Logged out.
+2020-01-27 18:42:12 | Customer Login: Customer Custom Logged in.
+2020-01-28 10:47:44 | Technician Login: Technician Technical Logged in.
+2020-01-28 14:12:42 | Customer Login: Customer Custom Logged in.
+2020-01-28 14:16:22 | Technician Login: Technician Technical Logged in.
+2020-01-28 14:17:00 | Customer Login: Customer Custom Logged in.
+2020-01-28 14:42:40 | Technician Login: Technician Technical Logged in.
+2020-01-29 09:51:40 | Login: Administrator Admin Logged in.
+2020-01-29 09:52:32 | Technician Login: Technician Technical Logged in.
+2020-01-29 09:53:19 | Technician Logout: Technician Technical Logged out.
+2020-01-29 09:54:20 | Login: Administrator Admin Logged in.
+2020-01-29 09:58:12 | Login: Administrator Admin Logged in.
+2020-01-29 10:32:17 | Login: Administrator Admin Logged in.
+2020-01-29 10:50:14 | Technician Login: Technician Technical Logged in.
+2020-01-29 10:50:25 | Technician Login: Technician Technical Logged in.
+2020-01-29 10:51:08 | Technician Login: Technician Technical Logged in.
+2020-01-29 10:51:37 | Technician Login: Technician Technical Logged in.
+2020-01-29 10:51:56 | Technician Login: Technician Technical Logged in.
+2020-01-29 10:53:27 | Technician Login: Technician Technical Logged in.
+2020-01-29 11:10:12 | Technician Login: Technician Technical Logged in.
+2020-01-29 11:11:01 | Technician Login: Technician Technical Logged in.
+2020-01-29 12:57:32 | Login: Administrator Admin Logged in.
+2020-01-29 15:38:24 | Technician Logout: Technician Technical Logged out.
+2020-01-29 15:38:37 | Technician Login: Technician Technical Logged in.
+2020-01-29 17:10:11 | Technician Logout: Technician Technical Logged out.
+2020-01-29 17:10:39 | Login: Administrator Admin Logged in.
+2020-01-29 17:36:23 | Technician Login: Technician Technical Logged in.
+2020-01-29 17:47:04 | Technician Logout: Technician Technical Logged out.
+2020-01-29 17:47:09 | Login: Administrator Admin Logged in.
+2020-01-29 18:36:44 | Technician Login: Technician Technical Logged in.
+2020-01-29 18:40:19 | Technician Login: Technician Technical Logged in.
+2020-01-29 18:41:36 | Technician Login: Technician Technical Logged in.
+2020-01-29 18:43:12 | Technician Login: Technician Technical Logged in.
+2020-01-29 18:43:35 | Technician Login: Technician Technical Logged in.
+2020-01-29 18:44:24 | Technician Login: Technician Technical Logged in.
+2020-01-30 09:31:23 | Technician Login: Technician Technical Logged in.
+2020-01-30 14:15:39 | Login: Administrator Admin Logged in.
+2020-01-30 15:41:27 | Technician Logout: Technician Technical Logged out.
+2020-01-30 15:41:38 | Technician Login: Technician Technical Logged in.
+2020-01-31 12:51:45 | Login: Administrator Admin Logged in.
+2020-01-31 12:56:33 | Login: Administrator Admin Logged in.
+2020-01-31 12:56:58 | Login: Administrator Admin Logged in.
+2020-01-31 12:59:13 | Login: Administrator Admin Logged in.
+2020-01-31 13:39:41 | Technician Login: Technician Technical Logged in.
+2020-01-31 13:49:33 | Technician Login: Technician Technical Logged in.
+2020-01-31 13:49:52 | Technician Logout: Technician Technical Logged out.
+2020-01-31 14:27:03 | Technician Login: Technician Technical Logged in.
+2020-01-31 14:28:14 | Technician Logout: Technician Technical Logged out.
+2020-01-31 14:28:32 | Technician Login: Technician Technical Logged in.
+2020-01-31 14:28:34 | Technician Logout: Technician Technical Logged out.
+2020-01-31 15:00:02 | Customer Login: Customer Custom Logged in.
+2020-01-31 15:36:42 | Technician Logout: Technician Technical Logged out.
+2020-01-31 15:37:09 | Customer Login: Customer Custom Logged in.
+2020-01-31 17:22:58 | Customer Login: Customer Custom Logged in.
+2020-01-31 17:43:53 | Login: Administrator Admin Logged in.
+2020-01-31 17:50:34 | Customer Login: Customer Custom Logged in.
+2020-01-31 18:30:19 | Login: Administrator Admin Logged in.
+2020-01-31 18:36:50 | Login: Administrator Admin Logged in.
+2020-01-31 18:55:33 | Customer Login: Customer Customer Logged in.
+2020-01-31 19:40:19 | Login: Administrator Admin Logged in.
+2020-01-31 19:47:09 | Login: Administrator Admin Logged in.
+2020-01-31 20:09:00 | Technician Login: Ademola Bayp Logged in.
+2020-01-31 20:22:27 | Login: Administrator Admin Logged in.
+2020-01-31 21:01:35 | Technician Login: Ademola Bayp Logged in.
+2020-01-31 21:26:53 | Technician Logout: Ademola Bayp Logged out.
+2020-01-31 21:27:26 | Login: Administrator Admin Logged in.
+2020-02-05 12:27:31 | Admin Login: Admin Logged in.
+2020-02-05 12:29:30 | Admin Login: Admin Logged in.
+2020-02-05 12:40:29 | Client Login: Ayodeji Logged in.
+2020-02-05 12:44:07 | Client Login: Ayodeji Logged in.
+2020-02-05 12:47:36 | Client Login: Ayodeji Logged in.
+2020-02-05 12:53:12 | Client Login: Ayodeji Logged in.
+2020-02-05 13:59:36 | Client Login: Ayodeji Logged in.
+2020-02-05 14:07:15 | Logout: Ayodeji Kareem  Logged out.
+2020-02-05 14:07:35 | Client Login: Ayodeji Logged in.
+2020-02-05 14:07:39 | Logout: Ayodeji Kareem  Logged out.
+2020-02-05 14:09:19 | Client Login: Ayodeji Logged in.
+2020-02-05 14:09:22 | Logout: Ayodeji Kareem  Logged out.
+2020-02-05 14:09:34 | Admin Login: Admin Logged in.
+2020-02-05 14:56:54 | Admin Login: Admin Logged in.
+2020-02-05 14:57:16 | Admin Login: Admin Logged in.
+2020-02-05 15:00:48 | Admin Login: Admin Logged in.
+2020-02-05 15:02:57 | Admin Login: Admin Logged in.
+2020-02-05 15:07:47 | Admin Login: Admin Logged in.
+2020-02-05 15:13:04 | Admin Login: John Logged in.
+2020-02-05 15:14:08 | Admin Login: Jane Logged in.
+2020-02-05 15:14:31 | Admin Login: Meji Logged in.
+2020-02-05 15:15:41 | Admin Login: Tobiola Logged in.
+2020-02-05 15:16:36 | Admin Login: Admin Logged in.
+2020-02-05 15:18:10 | Admin Login: Ayodeji Logged in.
+2020-02-05 15:23:48 | Client Login: Ayodeji Logged in.
+2020-02-05 15:29:14 | Logout: Ayodeji Kareem  Logged out.
+2020-02-05 15:37:36 | Client Login: Ayodeji Logged in.
+2020-02-05 15:38:38 | Logout: Ayodeji Kareem  Logged out.
+2020-02-05 15:38:50 | Admin Login: Admin Logged in.
+2020-02-05 15:40:56 | Admin Login: Admin Logged in.
+2020-02-05 15:47:00 | Admin Login: Jane Logged in.
+2020-02-05 16:04:18 | Admin Login: John Logged in.
+2020-02-05 16:05:05 | Admin Login: John Logged in.
+2020-02-05 16:07:37 | Admin Login: John Logged in.
+2020-02-05 16:08:04 | Admin Login: John Logged in.
+2020-02-05 16:08:30 | Admin Login: John Logged in.
+2020-02-05 16:11:44 | Admin Login: John Logged in.
+2020-02-05 16:14:26 | Admin Login: Meji Logged in.
+2020-02-05 16:16:06 | Admin Login: John Logged in.
+2020-02-06 09:06:36 | Admin Login: Admin Logged in.
+2020-02-06 09:11:46 | Admin Login: Tobiola Logged in.
+2020-02-06 09:47:07 | Client Login: Ayodeji Logged in.
+2020-02-06 10:03:47 | Client Login: Ayodeji Logged in.
+2020-02-06 10:24:47 | Logout: Ayodeji Kareem  Logged out.
+2020-02-06 10:25:02 | Admin Login: Tobiola Logged in.
+2020-02-06 10:52:46 | Client Login: Ayodeji Logged in.
+2020-02-06 20:13:41 | Logout: Ayodeji Kareem  Logged out.
+2020-02-06 20:13:50 | Client Login: Ayodeji Logged in.
+2020-02-06 20:13:57 | Logout: Ayodeji Kareem  Logged out.
+2020-02-06 20:14:06 | Admin Login: Admin Logged in.
+2020-02-07 09:37:36 | Client Login: ODUMOSU & CO Logged in.
+2020-02-07 09:49:20 | Client Login: Ayodeji Logged in.
+2020-02-07 10:32:02 | Logout:   ODUMOSU & CO Logged out.
+2020-02-07 10:32:27 | Admin Login: John Logged in.
+2020-02-07 10:35:28 | Client Login: ODUMOSU & CO Logged in.
+2020-02-07 10:37:20 | Logout:   ODUMOSU & CO Logged out.
+2020-02-07 10:37:28 | Admin Login: John Logged in.
+2020-02-07 11:11:28 | Logout: Ayodeji Kareem  Logged out.
+2020-02-07 11:11:37 | Admin Login: Meji Logged in.
+2020-02-07 11:12:08 | Admin Login: John Logged in.
+2020-02-07 11:17:36 | Client Login: ODUMOSU & CO Logged in.
+2020-02-07 11:25:18 | Logout:   ODUMOSU & CO Logged out.
+2020-02-07 11:25:23 | Client Login: ODUMOSU & CO Logged in.
+2020-02-07 11:25:28 | Logout:   ODUMOSU & CO Logged out.
+2020-02-07 11:25:34 | Admin Login: John Logged in.
+2020-02-07 12:21:11 | Client Login: Ayodeji Logged in.
+2020-02-07 12:23:57 | Logout: Ayodeji Kareem  Logged out.
+2020-02-07 12:24:02 | Admin Login: John Logged in.
+2020-02-07 12:24:20 | Admin Login: Admin Logged in.
+2020-02-07 12:29:35 | Admin Login: Admin Logged in.
+2020-02-07 12:46:24 | Admin Login: Admin Logged in.
+2020-02-07 12:47:53 | Admin Login: John Logged in.
+2020-02-07 13:00:17 | Client Login: Ayodeji Logged in.
+2020-02-07 13:01:05 | Client Login: ODUMOSU & CO Logged in.
+2020-02-07 13:07:28 | Logout: Ayodeji Kareem  Logged out.
+2020-02-07 13:07:35 | Client Login: All-Tech Logged in.
+2020-02-07 13:09:48 | Logout:   ODUMOSU & CO Logged out.
+2020-02-07 13:09:53 | Client Login: Ayodeji Logged in.
+2020-02-07 13:09:54 | Logout:   All-Tech Logged out.
+2020-02-07 13:10:00 | Client Login: Ayodeji Logged in.
+2020-02-07 14:35:35 | Logout: Ayodeji Kareem  Logged out.
+2020-02-07 14:35:44 | Admin Login: Admin Logged in.
+2020-02-07 14:35:59 | Logout: Ayodeji Kareem  Logged out.
+2020-02-07 14:36:06 | Admin Login: Admin Logged in.
+2020-02-07 18:27:51 | Admin Login: Admin Logged in.
+2020-02-10 09:50:42 | Client Login: Ayodeji Logged in.
+2020-02-10 10:07:15 | Logout: Ayodeji Kareem  Logged out.
+2020-02-10 11:59:26 | Client Login: Ayodeji Logged in.
+2020-02-10 12:01:26 | Admin Login: Meji Logged in.
+2020-02-10 12:03:58 | Admin Login: John Logged in.
+2020-02-10 12:16:03 | Admin Login: Admin Logged in.
+2020-02-10 12:22:27 | Client Login: Ayodeji Logged in.
+2020-02-10 12:34:56 | Admin Login: John Logged in.
+2020-02-10 12:51:53 | Admin Login: Admin Logged in.
+2020-02-10 12:53:15 | Admin Login: John Logged in.
+2020-02-10 14:33:46 | Admin Login: John Logged in.
+2020-02-10 14:35:44 | Admin Login: John Logged in.
+2020-02-10 15:17:41 | Admin Login: Admin Logged in.
+2020-02-10 15:18:24 | Admin Login: John Logged in.
+2020-02-11 09:44:06 | Admin Login: John Logged in.
+2020-02-11 11:39:54 | Admin Login: Tobiola Logged in.
+2020-02-11 11:48:00 | Client Login: Ayodeji Logged in.
+2020-02-11 12:43:10 | Client Login: Ayodeji Logged in.
+2020-02-11 12:45:45 | Logout: Ayodeji Kareem  Logged out.
+2020-02-11 12:45:51 | Admin Login: Tobiola Logged in.
+2020-02-11 12:47:09 | Client Login: Ayodeji Logged in.
+2020-02-11 12:50:03 | Client Login: Ayodeji Logged in.
+2020-02-11 13:03:38 | Client Login: Ayodeji Logged in.
+2020-02-11 16:40:56 | Admin Login: Admin Logged in.
+2020-02-11 16:42:01 | Admin Login: John Logged in.
+2020-02-11 17:55:53 | Admin Login: John Logged in.
+2020-02-11 18:17:28 | Admin Login: Meji Logged in.
+2020-02-11 18:19:11 | Admin Login: Meji Logged in.
+2020-02-11 18:19:21 | Admin Login: Meji Logged in.
+2020-02-11 18:19:40 | Admin Login: Meji Logged in.
+2020-02-11 18:20:11 | Admin Login: Meji Logged in.
+2020-02-11 18:20:23 | Admin Login: Meji Logged in.
+2020-02-11 18:20:58 | Admin Login: Meji Logged in.
+2020-02-11 18:21:41 | Admin Login: Admin Logged in.
+2020-02-11 18:21:57 | Admin Login: Meji Logged in.
+2020-02-11 18:22:36 | Admin Login: Meji Logged in.
+2020-02-11 18:41:05 | Admin Login: Admin Logged in.
+2020-02-12 10:20:40 | Admin Login: John Logged in.
+2020-02-12 10:48:14 | Admin Login: Admin Logged in.
+2020-02-12 10:48:39 | Client Login: Ayodeji Logged in.
+2020-02-12 10:48:49 | Logout: Ayodeji Kareem  Logged out.
+2020-02-12 11:25:33 | Client Login: Ayodeji Logged in.
+2020-02-12 11:28:28 | Logout: Ayodeji Kareem  Logged out.
+2020-02-12 11:28:34 | Admin Login: Tobiola Logged in.
+2020-02-12 11:30:09 | Client Login: Ayodeji Logged in.
+2020-02-12 11:30:26 | Client Login: Ayodeji Logged in.
+2020-02-12 11:30:42 | Logout: Ayodeji Kareem  Logged out.
+2020-02-12 11:31:37 | Admin Login: John Logged in.
+2020-02-12 11:43:38 | Client Login: Ayodeji Logged in.
+2020-02-12 12:04:30 | Logout: Ayodeji Kareem  Logged out.
+2020-02-12 12:04:43 | Admin Login: John Logged in.
+2020-02-12 12:26:42 | Client Login: Ayodeji Logged in.
+2020-02-12 12:28:50 | Logout: Ayodeji Kareem  Logged out.
+2020-02-12 12:41:12 | Client Login: Ayodeji Logged in.
+2020-02-12 13:02:05 | Admin Login: Meji Logged in.
+2020-02-12 13:53:42 | Admin Login: John Logged in.
+2020-02-12 14:18:31 | Client Login: Ayodeji Logged in.
+2020-02-13 12:31:28 | Client Login: Ayodeji Logged in.
+2020-02-13 12:37:23 | Client Login: Ayodeji Logged in.
+2020-02-13 14:39:44 | Logout: Ayodeji Kareem  Logged out.
+2020-02-13 14:39:58 | Admin Login: Tobiola Logged in.
+2020-02-13 18:45:47 | Admin Login: Tobiola Logged in.
+2020-02-13 18:54:13 | Admin Login: John Logged in.
+2020-02-14 09:50:30 | Client Login: Ayodeji Logged in.
+2020-02-14 09:53:28 | Admin Login: John Logged in.
+2020-02-14 09:56:38 | Admin Login: Tobiola Logged in.
+2020-02-17 09:52:18 | Client Login: Ayodeji Logged in.
+2020-02-17 09:53:28 | Logout: Ayodeji Kareem  Logged out.
+2020-02-17 09:53:36 | Client Login: ODUMOSU & CO Logged in.
+2020-02-17 10:02:18 | Admin Login: Tobiola Logged in.
+2020-02-17 11:29:21 | Admin Login: John Logged in.
+2020-02-17 11:38:24 | Admin Login: Admin Logged in.
+2020-02-17 12:42:28 | Admin Login: Admin Logged in.
+2020-02-17 14:37:22 | Admin Login: IT Logged in.
+2020-02-17 15:01:37 | Admin Login: IT Logged in.
+2020-02-17 15:02:55 | Admin Login: IT Logged in.
+2020-02-17 15:45:53 | Admin Login: IT Logged in.
+2020-02-17 16:04:49 | Admin Login: Adegbile Logged in.
+2020-02-17 16:05:17 | Admin Login: IT Logged in.
+2020-02-17 16:15:28 | Admin Login: IT Logged in.
+2020-02-17 16:26:53 | Admin Login: Agunlejika Logged in.
+2020-02-18 10:28:19 | Admin Login: Adegbile Logged in.
+2020-02-18 11:31:09 | Admin Login: IT Logged in.
+2020-02-18 12:15:14 | Admin Login: IT Logged in.
+2020-02-18 12:15:48 | Admin Login: Adegbile Logged in.
+2020-02-18 12:20:38 | Admin Login: Barrister Logged in.
+2020-02-18 12:33:39 | Client Login: Ayodeji Logged in.
+2020-02-18 12:34:18 | Client Login: Ayodeji Logged in.
+2020-02-18 13:48:20 | Client Login: Barrister Logged in.
+2020-02-18 13:53:44 | Admin Login: Registrar Logged in.
+2020-02-18 13:59:34 | Admin Login: Registrar Logged in.
+2020-02-18 15:28:11 | Admin Login: Adegbile Logged in.
+2020-02-18 15:30:13 | Admin Login: IT Logged in.
+2020-02-18 15:31:03 | Admin Login: Bakare Logged in.
+2020-02-18 15:52:02 | Admin Login: Adegbile Logged in.
+2020-02-18 16:45:19 | Admin Login: IT Logged in.
+2020-02-19 10:05:57 | Client Login: Barrister Logged in.
+2020-02-19 10:06:35 | Admin Login: IT Logged in.
+2020-02-19 10:07:11 | Admin Login: Adegbile Logged in.
+2020-02-19 10:07:46 | Admin Login: Registrar Logged in.
+2020-02-20 10:08:24 | Client Login: Barrister Logged in.
+2020-02-20 10:08:46 | Admin Login: IT Logged in.
+2020-02-20 10:09:02 | Admin Login: Registrar Logged in.
+2020-02-20 10:29:28 | Admin Login: Alafialojulo Logged in.
+2020-02-20 11:23:03 | Admin Login: Alafialojulo Logged in.
+2020-02-20 12:04:51 | Admin Login: Alafialojulo Logged in.
+2020-02-20 12:06:17 | Admin Login: Bakare Logged in.
+2020-02-21 09:38:06 | Admin Login: Bakare Logged in.
+2020-02-21 09:38:25 | Admin Login: Alafialojulo Logged in.
+2020-02-21 15:11:21 | Admin Login: Bakare Logged in.
+2020-02-21 15:11:44 | Client Login: Barrister Logged in.
+2020-02-21 15:14:16 | Admin Login: Registrar Logged in.
+2020-02-21 15:38:51 | Admin Login: Bakare Logged in.
+2020-02-21 15:39:22 | Admin Login: Alafialojulo Logged in.
+2020-02-25 14:27:27 | Client Login: ibrahim Logged in.
+2020-02-25 18:44:25 | Client Login: ibrahim Logged in.
+2020-02-28 13:18:29 | Client Login: Barrister Logged in.
+2020-03-02 10:52:09 | Admin Login: Adegbile Logged in.
+2020-03-02 10:52:34 | Admin Login: Alafialojulo Logged in.
+2020-03-02 11:43:32 | Client Login: Barrister Logged in.
+2020-03-02 12:05:46 | Client Login: Barrister Logged in.
+2020-03-03 11:47:39 | Client Login: Barrister Logged in.
+2020-03-03 11:49:26 | Logout: Barrister Alakuko  Logged out.
+2020-03-03 11:49:32 | Admin Login: Adegbile Logged in.
+2020-03-03 11:50:15 | Admin Login: Alafialojulo Logged in.
+2020-03-03 11:53:40 | Admin Login: Alafialojulo Logged in.
+2020-03-03 13:27:24 | Admin Login: Alafialojulo Logged in.
+2020-03-03 14:30:34 | Admin Login: Alafialojulo Logged in.
+2020-03-03 14:50:22 | Admin Login: Alafialojulo Logged in.
+2020-03-03 16:52:17 | Admin Login: Alafialojulo Logged in.
+2020-03-05 12:13:47 | Admin Login: Alafialojulo Logged in.
+2020-03-05 12:13:49 | Admin Login: Alafialojulo Logged in.
+2020-03-05 12:14:45 | Admin Login: Alafialojulo Logged in.
+2020-03-05 14:32:42 | Admin Login: Alafialojulo Logged in.
+2020-03-05 14:43:22 | Client Login: Barrister Logged in.
+2020-03-05 14:43:36 | Logout: Barrister Alakuko  Logged out.
+2020-03-05 14:44:01 | Admin Login: Adegbile Logged in.
+2020-03-05 14:44:29 | Admin Login: Registrar Logged in.
+2020-03-05 14:45:38 | Admin Login: Bakare Logged in.
+2020-03-10 10:31:02 | Admin Login: Alafialojulo Logged in.
+2020-03-10 10:37:04 | Admin Login: Bakare Logged in.
+2020-03-10 10:39:10 | Admin Login: IT Logged in.
+2020-03-10 11:50:23 | Admin Login: Bakare Logged in.
+2020-03-12 15:46:03 | Admin Login: Bakare Logged in.
+2020-03-12 15:47:49 | Admin Login: Bakare Logged in.
+2020-03-13 09:46:37 | Admin Login: Bakare Logged in.
+2020-03-13 10:08:27 | Admin Login: Alafialojulo Logged in.
+2020-03-13 10:17:24 | Admin Login: Alafialojulo Logged in.
+2020-04-09 10:12:48 | Client Login: Barrister Logged in.
+2020-04-09 11:00:23 | Logout: Barrister Alakuko  Logged out.
+2020-04-09 11:00:55 | Admin Login: Alafialojulo Logged in.
+2020-04-09 11:05:03 | Client Login: Barrister Logged in.
+2020-04-09 11:06:03 | Logout: Barrister Alakuko  Logged out.
+2020-04-09 11:06:13 | Admin Login: Alafialojulo Logged in.
+2020-04-09 13:48:09 | Client Login: Barrister Logged in.
+2020-04-16 18:28:38 | Admin Login: Alafialojulo Logged in.
+2020-04-16 18:29:46 | Client Login: Barrister Logged in.
+2020-04-17 16:31:01 | Client Login: Barrister Logged in.
+2020-04-22 11:51:04 | Client Login: Barrister Logged in.
+2020-04-26 10:43:10 | Admin Login: Alafialojulo Logged in.
+2020-04-26 10:54:39 | Admin Login: Alafialojulo Logged in.
+2020-04-27 11:03:42 | Admin Login: Alafialojulo Logged in.
+2020-05-01 15:52:16 | Admin Login: Alafialojulo Logged in.
+2020-05-02 09:54:55 | Admin Login: Alafialojulo Logged in.
+2020-05-20 10:47:54 | Admin Login: Alafialojulo Logged in.
+2020-05-20 18:21:43 | Client Login: Barrister Logged in.
+2020-05-23 11:41:05 | Client Login: Barrister Logged in.
+2020-05-23 11:43:03 | Logout: Barrister Alakuko  Logged out.
+2020-05-23 12:08:02 | Client Login: Barrister Logged in.
+2020-05-23 12:10:00 | Logout: Barrister Alakuko  Logged out.
+2020-05-23 12:10:12 | Admin Login: Alafialojulo Logged in.
+2020-05-23 12:54:27 | Admin Login: Adegbile Logged in.
+2020-05-25 07:08:32 | Client Login: Barrister Logged in.
+2020-05-26 06:30:41 | Client Login: Barrister Logged in.
+2020-05-26 06:56:04 | Logout: Barrister Alakuko  Logged out.
+2020-05-26 06:57:21 | Admin Login: Registrar Logged in.
+2020-05-26 07:10:21 | Client Login: Barrister Logged in.
+2020-05-26 09:59:46 | Logout: Barrister Alakuko  Logged out.
+2020-05-26 09:59:59 | Admin Login: Registrar Logged in.
+2020-05-26 10:21:06 | Admin Login: IT Logged in.
+2020-05-26 11:42:50 | Admin Login:  Logged in.
+2020-05-26 14:00:52 | Admin Login: IT Logged in.
+2020-05-26 14:02:43 | Admin Login:  Logged in.
+2020-05-26 14:03:42 | Admin Login:  Logged in.
+2020-05-26 14:41:20 | Admin Login: IT Logged in.
+2020-05-26 14:44:30 | Admin Login:  Logged in.
+2020-05-26 15:17:19 | Client Login: Barrister Logged in.
+2020-05-26 15:18:44 | Logout: Barrister Alakuko  Logged out.
+2020-05-26 15:19:00 | Admin Login:  Logged in.
+2020-05-26 17:24:44 | Admin Login:  Logged in.
+2020-05-27 14:17:59 | Admin Login:  Logged in.
+2020-05-27 16:58:26 | Client Login: Barrister Logged in.
+2020-05-27 17:16:20 | Logout: Barrister Alakuko  Logged out.
+2020-05-27 17:16:28 | Admin Login:  Logged in.
+2020-05-28 05:58:10 | Admin Login: Alafialojulo Logged in.
+2020-05-28 06:19:43 | Admin Login:  Logged in.
+2020-05-29 07:36:44 | Admin Login:  Logged in.
+2020-05-29 10:48:52 | Admin Login:  Logged in.
+2020-05-29 14:41:58 | Admin Login:  Logged in.
+2020-05-29 14:58:08 | Admin Login:  Logged in.
+2020-05-30 10:02:22 | Admin Login:  Logged in.
+2020-05-30 10:25:14 | Admin Login:  Logged in.
+2020-05-30 14:34:24 | Admin Login:  Logged in.
+2020-05-30 19:55:18 | Admin Login:  Logged in.
+2020-05-30 19:56:36 | Admin Login:  Logged in.
+2020-05-30 22:39:13 | Admin Login:  Logged in.
+2020-06-01 12:13:12 | Client Login: Barrister Logged in.
+2020-06-01 12:13:33 | Logout: Barrister Alakuko  Logged out.
+2020-06-01 12:19:44 | Client Login: ibrahim Logged in.
+2020-06-01 12:46:50 | Logout: ibrahim oladipo  Logged out.
+2020-06-01 12:47:00 | Admin Login: Registrar Logged in.
+2020-06-01 20:48:10 | Client Login: Barrister Logged in.

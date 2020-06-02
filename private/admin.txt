@@ -1,0 +1,16 @@
+2020-01-26 00:46:23 | New Users: id: 3, Created by Ade
+2020-01-29 15:51:53 | Delete Admin: id: 1, Deleted by Administrator Admin
+2020-01-29 15:52:26 | Delete Admin: id: 1, Deleted by Administrator Admin
+2020-01-29 15:52:39 | Delete Admin: id: 2, Deleted by Administrator Admin
+2020-01-29 15:54:08 | Delete Admin: id: 4, Deleted by Administrator Admin
+2020-01-29 18:01:07 | Edit Admin: id: 1, Editted by Administrator Admin
+2020-01-31 15:25:42 | Update Work Order: id: 1, Updated by Technician Technical
+2020-01-31 15:30:48 | New Complaint: id: 4, Created by Customer Custom
+2020-01-31 15:33:26 | Update Work Order: id: 1, Updated by Technician Technical
+2020-01-31 15:37:43 | New Complaint: id: 5, Created by Customer Custom
+2020-01-31 16:19:44 | New Complaint: id: 6, Created by Customer Custom
+2020-01-31 17:03:08 | New Complaint: id: 7, Created by Customer Custom
+2020-01-31 17:04:49 | New Complaint: id: 8, Created by Customer Custom
+2020-01-31 18:42:36 | New Users: id: 2, Created by Administrator Admin
+2020-01-31 19:39:43 | New Complaint: id: 1, Created by Customer Customer
+2020-01-31 20:05:34 | New Users: id: 1, Created by Administrator Admin
